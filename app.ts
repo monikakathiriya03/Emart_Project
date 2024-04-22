@@ -26,6 +26,8 @@ app.listen(port, async() => {                                                   
     console.log(`Server start at http://localhost:${port}`);
 });
 
+// Deployed project link :---
+// https://emart-project-0exd.onrender.com
 
 
                                                                       
