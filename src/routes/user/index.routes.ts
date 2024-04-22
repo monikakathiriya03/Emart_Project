@@ -18,3 +18,12 @@ usersRoutes.use('/wishlist', wishlistRoutes);
 usersRoutes.use('/contact', contactRoutes);
 
 export default usersRoutes;
+
+
+// All Users Passwords are ------> "1234"
+
+// Users Email is ------> 1."moni@test.in"
+//                        2."susi@test.in"
+//                        3."pilu@test.in"
+//                        4."prayag@test.in"
+//                        5."akshu@test.in"
